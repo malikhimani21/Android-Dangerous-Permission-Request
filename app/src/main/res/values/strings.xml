@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidPermissions</string>
+
+    <string name="permission_preferences">Preferences</string>
+    <string name="permission_camera">Camera</string>
+    <string name="permission_storage">Storage</string>
+    <string name="permission_contacts">Contact</string>
+
+</resources>
